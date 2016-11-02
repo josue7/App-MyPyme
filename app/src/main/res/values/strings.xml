@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">IniciarSesion</string>
+
+    <string name="title_activity_scream_splash">ScreamSplash</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Correo Electronico</string>
+    <string name="prompt_password">Contraseña</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Iniciar Sesion</string>
+    <string name="error_invalid_email">Esto no es un correo electronico</string>
+    <string name="error_invalid_password">La contraseña es muy pequeña</string>
+    <string name="error_incorrect_password">La contraseña es incorrectat</string>
+    <string name="error_field_required">Es necesario este requisito</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+</resources>
